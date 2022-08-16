@@ -1,0 +1,41 @@
+header{
+    background-color: #E6E6E6;
+}
+
+h1{
+    color: #005677;
+    background-color: #C4C4C4;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 80px;
+}
+
+h2{
+    color: #005677;
+    background-color: #C4C4C4;
+}
+
+
+#miFoto{
+    padding-left:800px;
+}
+
+footer{
+    margin-top: 80px;
+}
+
+#listaF li{
+    display: inline;
+    padding: 5px;
+}
+
+.listaFooter{
+    color: white;
+    background-color: #005677;
+    padding: 10px;
+    padding-left:800px;
+}
+
+a{
+    color: white;
+}
